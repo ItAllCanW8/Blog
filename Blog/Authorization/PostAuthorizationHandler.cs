@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace Blog.Authorization
 {
-    public class BlogAuthorizationHandler : AuthorizationHandler<OperationAuthorizationRequirement, Data.Models.Blog>
+    public class PostAuthorizationHandler : AuthorizationHandler<OperationAuthorizationRequirement, Post>
     {
         private readonly UserManager<ApplicationUser> userManager;
 
-        public BlogAuthorizationHandler(UserManager<ApplicationUser> userManager) {
+        public PostAuthorizationHandler(UserManager<ApplicationUser> userManager) {
             this.userManager = userManager;
         }
         protected override async Task HandleRequirementAsync(AuthorizationHandlerContext context, 
-            OperationAuthorizationRequirement requirement, Data.Models.Blog resource)
+            OperationAuthorizationRequirement requirement, Post resource)
         {
             var applicationUser = await userManager.GetUserAsync(context.User);
 

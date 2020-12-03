@@ -1717,10 +1717,6 @@ C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Areas\Ident
 C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
 C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\_Layout.cshtml.g.cs
-C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Create.cshtml.g.cs
-C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs
-C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
-C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\_Layout.cshtml.g.cs
 C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Layout.cshtml.g.cs
@@ -1744,3 +1740,7 @@ C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.csproj.CopyC
 C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.dll
 C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.pdb
 C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Blog.genruntimeconfig.cache
+C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Post\Create.cshtml.g.cs
+C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Post\Edit.cshtml.g.cs
+C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Post\Index.cshtml.g.cs
+C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Post\_Layout.cshtml.g.cs
