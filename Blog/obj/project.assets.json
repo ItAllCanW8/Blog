@@ -9017,11 +9017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog\\Blog.csproj",
+      "projectUniqueName": "C:\\University\\fifth-semester\\Blog\\Blog\\Blog.csproj",
       "projectName": "Blog",
-      "projectPath": "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog\\Blog.csproj",
+      "projectPath": "C:\\University\\fifth-semester\\Blog\\Blog\\Blog.csproj",
       "packagesPath": "C:\\Users\\ya\\.nuget\\packages\\",
-      "outputPath": "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog\\obj\\",
+      "outputPath": "C:\\University\\fifth-semester\\Blog\\Blog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -9042,11 +9042,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog.Data\\Blog.Data.csproj": {
-              "projectPath": "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog.Data\\Blog.Data.csproj"
+            "C:\\University\\fifth-semester\\Blog\\Blog.Data\\Blog.Data.csproj": {
+              "projectPath": "C:\\University\\fifth-semester\\Blog\\Blog.Data\\Blog.Data.csproj"
             },
-            "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog.Service\\Blog.Service.csproj": {
-              "projectPath": "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog.Service\\Blog.Service.csproj"
+            "C:\\University\\fifth-semester\\Blog\\Blog.Service\\Blog.Service.csproj": {
+              "projectPath": "C:\\University\\fifth-semester\\Blog\\Blog.Service\\Blog.Service.csproj"
             }
           }
         }

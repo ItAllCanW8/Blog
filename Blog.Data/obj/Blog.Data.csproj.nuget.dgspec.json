@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog.Data\\Blog.Data.csproj": {}
+    "C:\\University\\fifth-semester\\Blog\\Blog.Data\\Blog.Data.csproj": {}
   },
   "projects": {
-    "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog.Data\\Blog.Data.csproj": {
+    "C:\\University\\fifth-semester\\Blog\\Blog.Data\\Blog.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog.Data\\Blog.Data.csproj",
+        "projectUniqueName": "C:\\University\\fifth-semester\\Blog\\Blog.Data\\Blog.Data.csproj",
         "projectName": "Blog.Data",
-        "projectPath": "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog.Data\\Blog.Data.csproj",
+        "projectPath": "C:\\University\\fifth-semester\\Blog\\Blog.Data\\Blog.Data.csproj",
         "packagesPath": "C:\\Users\\ya\\.nuget\\packages\\",
-        "outputPath": "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog.Data\\obj\\",
+        "outputPath": "C:\\University\\fifth-semester\\Blog\\Blog.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

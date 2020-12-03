@@ -1740,3 +1740,5 @@ C:\University\fifth-semester\BlogBackupRegWorks\Blog\obj\Debug\netcoreapp3.1\Blo
 C:\University\fifth-semester\BlogBackupRegWorks\Blog\obj\Debug\netcoreapp3.1\Blog.dll
 C:\University\fifth-semester\BlogBackupRegWorks\Blog\obj\Debug\netcoreapp3.1\Blog.pdb
 C:\University\fifth-semester\BlogBackupRegWorks\Blog\obj\Debug\netcoreapp3.1\Blog.genruntimeconfig.cache
+C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs

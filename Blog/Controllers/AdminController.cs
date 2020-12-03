@@ -1,12 +1,23 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Blog.BusinessManagers.Interfaces;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
 
 namespace Blog.Controllers
 {
+    [Authorize]
     public class AdminController : Controller
     {
-        public IActionResult Index()
+        private readonly IAdminBusinessManager adminBusinessManager;
+
+        public AdminController(IAdminBusinessManager adminBusinessManager)
         {
-            return View();
+            this.adminBusinessManager = adminBusinessManager;
+        }
+
+        public async Task<IActionResult> Index()
+        {
+            return View(await adminBusinessManager.GetAdminDashboard(User));
         }
     }
 }

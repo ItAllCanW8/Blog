@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LIw8iPg+RbxExCmKpfMqH6tBvcasOLf1JvpLm0f9wftnqjzhXzV4Haa5QUc2H3hIiPBce9hJ4EbF9D8QMJ0sUA==",
+  "dgSpecHash": "K3YpGVHMouqII+3v5fOLHPrjpuWYW7QEQpFomFE/bicR104j/8jXo4CHaqQY1UZZdO3GRrTOLOyEffUjwWsYBA==",
   "success": true,
-  "projectFilePath": "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog\\Blog.csproj",
+  "projectFilePath": "C:\\University\\fifth-semester\\Blog\\Blog\\Blog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ya\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.10\\microsoft.aspnetcore.cryptography.internal.3.1.10.nupkg.sha512",
     "C:\\Users\\ya\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.10\\microsoft.aspnetcore.cryptography.keyderivation.3.1.10.nupkg.sha512",

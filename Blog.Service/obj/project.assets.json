@@ -5825,11 +5825,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog.Service\\Blog.Service.csproj",
+      "projectUniqueName": "C:\\University\\fifth-semester\\Blog\\Blog.Service\\Blog.Service.csproj",
       "projectName": "Blog.Service",
-      "projectPath": "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog.Service\\Blog.Service.csproj",
+      "projectPath": "C:\\University\\fifth-semester\\Blog\\Blog.Service\\Blog.Service.csproj",
       "packagesPath": "C:\\Users\\ya\\.nuget\\packages\\",
-      "outputPath": "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog.Service\\obj\\",
+      "outputPath": "C:\\University\\fifth-semester\\Blog\\Blog.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5850,8 +5850,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog.Data\\Blog.Data.csproj": {
-              "projectPath": "C:\\University\\fifth-semester\\BlogBackupRegWorks\\Blog.Data\\Blog.Data.csproj"
+            "C:\\University\\fifth-semester\\Blog\\Blog.Data\\Blog.Data.csproj": {
+              "projectPath": "C:\\University\\fifth-semester\\Blog\\Blog.Data\\Blog.Data.csproj"
             }
           }
         }
