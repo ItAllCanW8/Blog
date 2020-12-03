@@ -21,6 +21,16 @@ namespace Blog.Service
         {
             return applicationDbContext.Blogs.FirstOrDefault(blog => blog.Id == blogId);
         }
+
+        public IEnumerable<Data.Models.Blog> GetBlogs(string searchStr)
+        {
+            return applicationDbContext.Blogs
+                .OrderByDescending(blog => blog.UpdatedOn)
+                .Include(blog => blog.Creator)
+                .Include(blog => blog.Posts)
+                .Where(blog => blog.Title.Contains(searchStr) || blog.Content.Contains(searchStr));
+        }
+
         public IEnumerable<Data.Models.Blog> GetBlogs(ApplicationUser applicationUser)
         {
             return applicationDbContext.Blogs

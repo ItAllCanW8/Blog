@@ -8,6 +8,7 @@ namespace Blog.Service.Interfaces
     {
         Data.Models.Blog GetBlog(int blogId);
         IEnumerable<Data.Models.Blog> GetBlogs(ApplicationUser applicationUser);
+        IEnumerable<Data.Models.Blog> GetBlogs(string searchStr);
         Task<Data.Models.Blog> Add(Data.Models.Blog blog);
         Task<Data.Models.Blog> Update(Data.Models.Blog blog);
     }
