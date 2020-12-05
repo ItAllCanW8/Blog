@@ -1,4 +1,6 @@
-﻿namespace Blog.Data.Models
+﻿using System.Collections.Generic;
+
+namespace Blog.Data.Models
 {
     public class Comment
     {
@@ -8,5 +10,7 @@
         public string Content { get; set; }
         public Comment Parent { get; set; }
         public System.DateTime CreatedOn { get; set; }
+
+        public virtual IEnumerable<Comment> Comments { get; set; }
     }
 }

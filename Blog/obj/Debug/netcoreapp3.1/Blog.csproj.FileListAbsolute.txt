@@ -1744,3 +1744,4 @@ C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Post\
 C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Post\Edit.cshtml.g.cs
 C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Post\Index.cshtml.g.cs
 C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Post\_Layout.cshtml.g.cs
+C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Post\_ReadLayout.cshtml.g.cs

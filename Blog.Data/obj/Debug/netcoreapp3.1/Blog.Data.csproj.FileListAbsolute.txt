@@ -15,3 +15,4 @@ C:\University\fifth-semester\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.As
 C:\University\fifth-semester\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.csproj.CoreCompileInputs.cache
 C:\University\fifth-semester\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.dll
 C:\University\fifth-semester\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.pdb
+C:\University\fifth-semester\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.csprojAssemblyReference.cache
