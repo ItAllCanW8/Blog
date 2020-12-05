@@ -1744,7 +1744,6 @@ C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Post\
 C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Post\Edit.cshtml.g.cs
 C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Post\Index.cshtml.g.cs
 C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Post\_Layout.cshtml.g.cs
-C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Post\_ReadLayout.cshtml.g.cs
 C:\Users\ya\Desktop\Blog-develop\Blog\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\ya\Desktop\Blog-develop\Blog\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\ya\Desktop\Blog-develop\Blog\bin\Debug\netcoreapp3.1\Blog.StaticWebAssets.xml
@@ -2203,3 +2202,5 @@ C:\Users\ya\Desktop\Blog-develop\Blog\obj\Debug\netcoreapp3.1\Blog.pdb
 C:\Users\ya\Desktop\Blog-develop\Blog\obj\Debug\netcoreapp3.1\Blog.genruntimeconfig.cache
 C:\Users\ya\Desktop\Blog-develop\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\About.cshtml.g.cs
 C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Admin\About.cshtml.g.cs
+C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_HomeLayout.cshtml.g.cs
+C:\University\fifth-semester\Blog\Blog\obj\Debug\netcoreapp3.1\Razor\Views\Home\Author.cshtml.g.cs

@@ -71,7 +71,8 @@ namespace Blog.BusinessManagers
 
             return new IndexViewModel
             {
-                Posts = new StaticPagedList<Post>(posts.Skip((pageNumber - 1) * pageSize).Take(pageSize), pageNumber, pageSize, posts.Count()),
+                Posts = new StaticPagedList<Post>(posts.Skip((pageNumber - 1) * pageSize)
+                .Take(pageSize), pageNumber, pageSize, posts.Count()),
                 SearchString = searchString,
                 PageNumber = pageNumber
             };

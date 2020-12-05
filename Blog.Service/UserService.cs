@@ -1,6 +1,7 @@
 ﻿using Blog.Data;
 using Blog.Data.Models;
 using Blog.Service.Interfaces;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace Blog.Service
@@ -14,6 +15,10 @@ namespace Blog.Service
             this.applicationDbContext = applicationDbContext;
         }
 
+        public ApplicationUser Get(string id)
+        {
+            return applicationDbContext.Users.FirstOrDefault(user => user.Id == id);
+        }
         public async Task<ApplicationUser> Update(ApplicationUser applicationUser)
         {
             applicationDbContext.Update(applicationUser);
