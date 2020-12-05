@@ -31,3 +31,15 @@ C:\University\fifth-semester\Blog\Blog.Service\obj\Debug\netcoreapp3.1\Blog.Serv
 C:\University\fifth-semester\Blog\Blog.Service\obj\Debug\netcoreapp3.1\Blog.Service.csproj.CopyComplete
 C:\University\fifth-semester\Blog\Blog.Service\obj\Debug\netcoreapp3.1\Blog.Service.dll
 C:\University\fifth-semester\Blog\Blog.Service\obj\Debug\netcoreapp3.1\Blog.Service.pdb
+C:\Users\ya\Desktop\Blog-develop\Blog.Service\bin\Debug\netcoreapp3.1\Blog.Service.deps.json
+C:\Users\ya\Desktop\Blog-develop\Blog.Service\bin\Debug\netcoreapp3.1\Blog.Service.dll
+C:\Users\ya\Desktop\Blog-develop\Blog.Service\bin\Debug\netcoreapp3.1\Blog.Service.pdb
+C:\Users\ya\Desktop\Blog-develop\Blog.Service\bin\Debug\netcoreapp3.1\Blog.Data.dll
+C:\Users\ya\Desktop\Blog-develop\Blog.Service\bin\Debug\netcoreapp3.1\Blog.Data.pdb
+C:\Users\ya\Desktop\Blog-develop\Blog.Service\obj\Debug\netcoreapp3.1\Blog.Service.csprojAssemblyReference.cache
+C:\Users\ya\Desktop\Blog-develop\Blog.Service\obj\Debug\netcoreapp3.1\Blog.Service.AssemblyInfoInputs.cache
+C:\Users\ya\Desktop\Blog-develop\Blog.Service\obj\Debug\netcoreapp3.1\Blog.Service.AssemblyInfo.cs
+C:\Users\ya\Desktop\Blog-develop\Blog.Service\obj\Debug\netcoreapp3.1\Blog.Service.csproj.CoreCompileInputs.cache
+C:\Users\ya\Desktop\Blog-develop\Blog.Service\obj\Debug\netcoreapp3.1\Blog.Service.csproj.CopyComplete
+C:\Users\ya\Desktop\Blog-develop\Blog.Service\obj\Debug\netcoreapp3.1\Blog.Service.dll
+C:\Users\ya\Desktop\Blog-develop\Blog.Service\obj\Debug\netcoreapp3.1\Blog.Service.pdb

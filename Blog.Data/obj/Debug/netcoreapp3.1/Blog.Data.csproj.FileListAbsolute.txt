@@ -15,4 +15,11 @@ C:\University\fifth-semester\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.As
 C:\University\fifth-semester\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.csproj.CoreCompileInputs.cache
 C:\University\fifth-semester\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.dll
 C:\University\fifth-semester\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.pdb
-C:\University\fifth-semester\Blog\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.csprojAssemblyReference.cache
+C:\Users\ya\Desktop\Blog-develop\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Data.deps.json
+C:\Users\ya\Desktop\Blog-develop\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Data.dll
+C:\Users\ya\Desktop\Blog-develop\Blog.Data\bin\Debug\netcoreapp3.1\Blog.Data.pdb
+C:\Users\ya\Desktop\Blog-develop\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.AssemblyInfoInputs.cache
+C:\Users\ya\Desktop\Blog-develop\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.AssemblyInfo.cs
+C:\Users\ya\Desktop\Blog-develop\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.csproj.CoreCompileInputs.cache
+C:\Users\ya\Desktop\Blog-develop\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.dll
+C:\Users\ya\Desktop\Blog-develop\Blog.Data\obj\Debug\netcoreapp3.1\Blog.Data.pdb
