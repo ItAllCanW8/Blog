@@ -14,7 +14,7 @@
                         <div class="form-group">
                             <label asp-for="HeaderImage"></label>
                             <div class="custom-file">
-                                <input asp-for="HeaderImage" class="custom-file-input" accept="image/*" />
+                                <input asp-for="HeaderImage" class="custom-file-input" accept="image/*" required/>
                                 <label class="custom-file-label">Choose file</label>
                             </div>
                             <span asp-validation-for="HeaderImage" class="text-danger"></span>
@@ -44,7 +44,7 @@
     </div>
 </div>
 @section Scripts {
-    <script src="https://cdn.ckeditor.com/ckeditor5/21.0.0/classic/ckeditor.js"></script>
+    <script src="https://cdn.ckeditor.com/ckeditor5/23.1.0/classic/ckeditor.js"></script>
     <script>
         ClassicEditor
             .create(document.querySelector('.textarea'))
