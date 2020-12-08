@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\University\\fifth-semester\\Blog\\Blog.Service\\Blog.Service.csproj": {}
+    "C:\\University\\fifth-semester\\Shit\\Blog.Service\\Blog.Service.csproj": {}
   },
   "projects": {
-    "C:\\University\\fifth-semester\\Blog\\Blog.Data\\Blog.Data.csproj": {
+    "C:\\University\\fifth-semester\\Shit\\Blog.Data\\Blog.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\University\\fifth-semester\\Blog\\Blog.Data\\Blog.Data.csproj",
+        "projectUniqueName": "C:\\University\\fifth-semester\\Shit\\Blog.Data\\Blog.Data.csproj",
         "projectName": "Blog.Data",
-        "projectPath": "C:\\University\\fifth-semester\\Blog\\Blog.Data\\Blog.Data.csproj",
+        "projectPath": "C:\\University\\fifth-semester\\Shit\\Blog.Data\\Blog.Data.csproj",
         "packagesPath": "C:\\Users\\ya\\.nuget\\packages\\",
-        "outputPath": "C:\\University\\fifth-semester\\Blog\\Blog.Data\\obj\\",
+        "outputPath": "C:\\University\\fifth-semester\\Shit\\Blog.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\University\\fifth-semester\\Blog\\Blog.Service\\Blog.Service.csproj": {
+    "C:\\University\\fifth-semester\\Shit\\Blog.Service\\Blog.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\University\\fifth-semester\\Blog\\Blog.Service\\Blog.Service.csproj",
+        "projectUniqueName": "C:\\University\\fifth-semester\\Shit\\Blog.Service\\Blog.Service.csproj",
         "projectName": "Blog.Service",
-        "projectPath": "C:\\University\\fifth-semester\\Blog\\Blog.Service\\Blog.Service.csproj",
+        "projectPath": "C:\\University\\fifth-semester\\Shit\\Blog.Service\\Blog.Service.csproj",
         "packagesPath": "C:\\Users\\ya\\.nuget\\packages\\",
-        "outputPath": "C:\\University\\fifth-semester\\Blog\\Blog.Service\\obj\\",
+        "outputPath": "C:\\University\\fifth-semester\\Shit\\Blog.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -104,8 +104,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\University\\fifth-semester\\Blog\\Blog.Data\\Blog.Data.csproj": {
-                "projectPath": "C:\\University\\fifth-semester\\Blog\\Blog.Data\\Blog.Data.csproj"
+              "C:\\University\\fifth-semester\\Shit\\Blog.Data\\Blog.Data.csproj": {
+                "projectPath": "C:\\University\\fifth-semester\\Shit\\Blog.Data\\Blog.Data.csproj"
               }
             }
           }

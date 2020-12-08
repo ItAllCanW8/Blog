@@ -5807,11 +5807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\University\\fifth-semester\\Blog\\Blog.Data\\Blog.Data.csproj",
+      "projectUniqueName": "C:\\University\\fifth-semester\\Shit\\Blog.Data\\Blog.Data.csproj",
       "projectName": "Blog.Data",
-      "projectPath": "C:\\University\\fifth-semester\\Blog\\Blog.Data\\Blog.Data.csproj",
+      "projectPath": "C:\\University\\fifth-semester\\Shit\\Blog.Data\\Blog.Data.csproj",
       "packagesPath": "C:\\Users\\ya\\.nuget\\packages\\",
-      "outputPath": "C:\\University\\fifth-semester\\Blog\\Blog.Data\\obj\\",
+      "outputPath": "C:\\University\\fifth-semester\\Shit\\Blog.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
