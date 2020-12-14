@@ -7,5 +7,6 @@ https://mablog.azurewebsites.net/
 * Entity framework core
 * SQL Server
 * SignalR
+* Dependency Injection
 * Azure DevOps pipeline
 * Bootstrap
