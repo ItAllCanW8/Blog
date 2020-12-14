@@ -28,6 +28,9 @@ namespace Blog.Controllers
             return actionResult.Result;
         }
 
-
+        public IActionResult Chat()
+        {
+            return View();
+        }
     }
 }

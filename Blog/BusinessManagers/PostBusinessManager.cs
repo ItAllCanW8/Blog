@@ -23,6 +23,7 @@ namespace Blog.BusinessManagers
         private readonly IPostService postService;
         private readonly IWebHostEnvironment webHostEnvironment;
         private readonly IAuthorizationService authorizationService;
+        private readonly TimeZoneInfo timeZoneInfo = TimeZoneInfo.FindSystemTimeZoneById("Belarus Standard Time");
 
         public PostBusinessManager(
             UserManager<ApplicationUser> userManager,
@@ -83,8 +84,8 @@ namespace Blog.BusinessManagers
             Post post = createViewModel.Post;
 
             post.Creator = await userManager.GetUserAsync(claimsPrincipal);
-            post.CreatedOn = DateTime.Now;
-            post.UpdatedOn = DateTime.Now;
+            post.CreatedOn = TimeZoneInfo.ConvertTimeFromUtc(DateTime.UtcNow, timeZoneInfo);
+            post.UpdatedOn = TimeZoneInfo.ConvertTimeFromUtc(DateTime.UtcNow, timeZoneInfo);
 
             post = await postService.Add(post);
 
@@ -115,7 +116,7 @@ namespace Blog.BusinessManagers
             post.Published = editViewModel.Post.Published;
             post.Title = editViewModel.Post.Title;
             post.Content = editViewModel.Post.Content;
-            post.UpdatedOn = DateTime.Now;
+            post.UpdatedOn = TimeZoneInfo.ConvertTimeFromUtc(DateTime.UtcNow, timeZoneInfo);
 
             if (editViewModel.HeaderImage != null)
             {
@@ -150,7 +151,7 @@ namespace Blog.BusinessManagers
             var comment = postViewModel.Comment;
 
             comment.Author = await userManager.GetUserAsync(claimsPrincipal);
-            comment.CreatedOn = DateTime.Now;
+            comment.CreatedOn = TimeZoneInfo.ConvertTimeFromUtc(DateTime.UtcNow, timeZoneInfo);
             comment.Post = post;
 
             if (comment.Parent != null)
